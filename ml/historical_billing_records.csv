@@ -1,0 +1,1001 @@
+species,disease_name,severity_level,pet_weight_kg,treatment_duration_days,clinic_tier,actual_total_cost
+Dog,Mange,Severe,12.1,36,Premium,9900
+Cat,Conjunctivitis,Moderate,3.2,12,Standard,1650
+Dog,Urinary Tract Infection,Moderate,16.1,8,Standard,2850
+Dog,Dental Disease,Severe,16.1,13,Economy,4650
+Cat,Flea Allergy Dermatitis,Moderate,4.6,18,Premium,3400
+Dog,Mange,Severe,7.0,34,Economy,3850
+Dog,Otitis Externa,Mild,6.7,11,Standard,1500
+Dog,Conjunctivitis,Mild,13.8,5,Standard,1200
+Dog,Ringworm,Severe,17.0,21,Standard,5150
+Cat,Mange,Mild,6.1,32,Economy,1950
+Cat,Dermatitis,Moderate,4.3,8,Standard,1800
+Dog,Wound Infection,Mild,6.0,17,Standard,1650
+Dog,Wound Infection,Mild,19.2,21,Premium,3700
+Dog,Otitis Externa,Moderate,17.1,8,Standard,2400
+Cat,Urinary Tract Infection,Severe,2.8,8,Standard,3600
+Dog,Gastroenteritis,Moderate,12.5,5,Standard,2400
+Dog,Otitis Externa,Moderate,12.0,9,Premium,2950
+Dog,Dermatitis,Moderate,8.1,18,Standard,2650
+Cat,Mange,Mild,3.7,18,Standard,1950
+Cat,Conjunctivitis,Mild,5.6,9,Premium,1550
+Cat,Dental Disease,Severe,2.7,16,Standard,5750
+Cat,Conjunctivitis,Moderate,3.1,5,Standard,1200
+Dog,Urinary Tract Infection,Severe,15.0,11,Premium,6950
+Dog,Gastroenteritis,Severe,11.9,9,Standard,3800
+Dog,Conjunctivitis,Moderate,10.6,5,Premium,2100
+Cat,Ringworm,Moderate,3.2,29,Economy,2650
+Cat,Conjunctivitis,Moderate,5.3,8,Standard,1450
+Dog,Dental Disease,Severe,14.9,8,Economy,4100
+Cat,Urinary Tract Infection,Mild,5.6,11,Standard,1650
+Cat,Wound Infection,Mild,2.9,10,Standard,1650
+Cat,Urinary Tract Infection,Mild,2.1,12,Economy,1150
+Dog,Urinary Tract Infection,Mild,7.1,11,Standard,1400
+Cat,Conjunctivitis,Severe,4.6,7,Premium,3100
+Dog,Otitis Externa,Mild,4.8,17,Economy,1350
+Cat,Flea Allergy Dermatitis,Moderate,4.3,17,Standard,2150
+Dog,Urinary Tract Infection,Mild,6.8,8,Standard,1500
+Cat,Mange,Moderate,3.0,36,Standard,3700
+Dog,Dermatitis,Mild,11.6,15,Standard,1750
+Dog,Mange,Mild,15.8,14,Economy,1600
+Cat,Gastroenteritis,Mild,4.3,9,Economy,1250
+Cat,Wound Infection,Moderate,4.0,8,Standard,2400
+Cat,Urinary Tract Infection,Moderate,2.9,9,Premium,3500
+Dog,Flea Allergy Dermatitis,Severe,12.6,17,Economy,3000
+Cat,Dermatitis,Moderate,4.2,16,Standard,1950
+Cat,Urinary Tract Infection,Mild,6.0,7,Economy,1100
+Dog,Dermatitis,Mild,13.4,7,Economy,1100
+Dog,Conjunctivitis,Moderate,13.7,11,Premium,3350
+Cat,Flea Allergy Dermatitis,Mild,3.3,18,Premium,2150
+Dog,Dermatitis,Mild,19.1,10,Standard,1400
+Cat,Urinary Tract Infection,Moderate,3.5,12,Standard,2850
+Dog,Dermatitis,Moderate,17.7,15,Standard,2600
+Dog,Wound Infection,Severe,15.5,21,Economy,4300
+Cat,Ringworm,Severe,3.5,36,Standard,6050
+Dog,Conjunctivitis,Moderate,12.7,10,Premium,3150
+Cat,Flea Allergy Dermatitis,Moderate,4.2,26,Economy,2050
+Dog,Dental Disease,Mild,7.7,28,Economy,2300
+Dog,Ringworm,Mild,12.2,25,Standard,2250
+Dog,Flea Allergy Dermatitis,Mild,8.5,17,Standard,1550
+Cat,Otitis Externa,Mild,3.7,20,Economy,1200
+Cat,Gastroenteritis,Mild,2.9,6,Standard,1150
+Cat,Flea Allergy Dermatitis,Mild,2.1,12,Economy,1150
+Cat,Otitis Externa,Moderate,4.2,17,Standard,2750
+Cat,Urinary Tract Infection,Mild,3.1,14,Standard,1900
+Cat,Flea Allergy Dermatitis,Mild,3.0,22,Standard,2150
+Dog,Ringworm,Mild,10.3,40,Economy,2850
+Dog,Dental Disease,Mild,11.3,8,Standard,1900
+Dog,Dental Disease,Moderate,10.6,25,Standard,4700
+Dog,Gastroenteritis,Mild,20.9,8,Economy,1250
+Cat,Mange,Moderate,3.4,32,Standard,3850
+Cat,Dermatitis,Severe,2.0,9,Economy,2050
+Cat,Dental Disease,Moderate,3.4,10,Standard,2800
+Cat,Mange,Moderate,4.9,19,Premium,4050
+Dog,Dermatitis,Mild,19.8,7,Standard,1600
+Cat,Dental Disease,Mild,4.1,11,Economy,1550
+Dog,Ringworm,Moderate,9.5,37,Standard,4250
+Dog,Flea Allergy Dermatitis,Moderate,15.4,15,Economy,1950
+Dog,Flea Allergy Dermatitis,Mild,17.4,18,Standard,1800
+Cat,Flea Allergy Dermatitis,Moderate,4.2,22,Standard,2550
+Dog,Wound Infection,Mild,6.4,9,Economy,1100
+Dog,Dental Disease,Moderate,19.3,24,Premium,7350
+Cat,Wound Infection,Mild,5.9,18,Premium,2900
+Dog,Conjunctivitis,Moderate,13.4,11,Standard,1900
+Dog,Otitis Externa,Mild,19.8,13,Premium,2900
+Dog,Dental Disease,Severe,12.4,21,Standard,6950
+Cat,Dermatitis,Mild,2.3,14,Economy,1050
+Dog,Otitis Externa,Mild,18.9,17,Standard,2350
+Cat,Wound Infection,Mild,3.5,10,Premium,2400
+Cat,Mange,Moderate,2.7,28,Economy,2300
+Cat,Conjunctivitis,Moderate,2.6,7,Premium,2250
+Cat,Dermatitis,Moderate,4.5,11,Economy,1300
+Dog,Flea Allergy Dermatitis,Moderate,10.3,7,Standard,1450
+Dog,Wound Infection,Severe,13.4,10,Standard,4100
+Dog,Dermatitis,Moderate,23.2,13,Standard,2450
+Cat,Urinary Tract Infection,Severe,3.2,14,Economy,3250
+Dog,Gastroenteritis,Moderate,8.8,7,Standard,2450
+Dog,Mange,Mild,25.1,23,Economy,1900
+Cat,Dermatitis,Moderate,2.4,18,Economy,1800
+Dog,Urinary Tract Infection,Mild,13.3,8,Standard,1950
+Cat,Wound Infection,Moderate,4.2,21,Standard,3350
+Dog,Dental Disease,Severe,10.9,12,Premium,8450
+Cat,Dermatitis,Moderate,2.8,10,Standard,2150
+Cat,Mange,Severe,3.1,27,Standard,4900
+Cat,Otitis Externa,Severe,4.3,7,Standard,2700
+Cat,Ringworm,Moderate,3.1,36,Economy,3450
+Cat,Dental Disease,Mild,2.6,19,Standard,2450
+Cat,Conjunctivitis,Mild,5.8,7,Premium,1650
+Dog,Mange,Moderate,13.4,27,Standard,3800
+Cat,Gastroenteritis,Mild,4.4,9,Standard,1550
+Dog,Conjunctivitis,Mild,16.6,6,Economy,1100
+Cat,Wound Infection,Moderate,5.7,16,Premium,4000
+Dog,Gastroenteritis,Mild,6.5,6,Economy,1300
+Dog,Otitis Externa,Mild,18.6,18,Economy,1700
+Dog,Flea Allergy Dermatitis,Moderate,8.7,24,Economy,1900
+Dog,Mange,Moderate,22.5,21,Premium,5400
+Dog,Mange,Mild,7.6,20,Economy,1150
+Dog,Flea Allergy Dermatitis,Moderate,20.8,9,Premium,3100
+Cat,Wound Infection,Severe,5.8,18,Premium,6450
+Dog,Flea Allergy Dermatitis,Moderate,13.5,10,Economy,1500
+Dog,Dental Disease,Severe,9.5,22,Standard,6800
+Dog,Gastroenteritis,Mild,20.5,9,Standard,2000
+Dog,Urinary Tract Infection,Mild,14.5,10,Standard,1800
+Dog,Otitis Externa,Mild,14.2,10,Economy,1150
+Dog,Flea Allergy Dermatitis,Severe,6.8,21,Standard,3800
+Dog,Otitis Externa,Moderate,23.5,11,Standard,2600
+Cat,Urinary Tract Infection,Severe,3.3,7,Economy,2550
+Dog,Wound Infection,Mild,16.3,10,Standard,2000
+Dog,Dental Disease,Mild,19.4,22,Economy,2350
+Dog,Urinary Tract Infection,Mild,12.3,9,Standard,1750
+Dog,Mange,Mild,6.9,31,Standard,2300
+Dog,Wound Infection,Severe,8.0,13,Standard,4150
+Cat,Ringworm,Moderate,4.9,17,Economy,1800
+Dog,Mange,Mild,10.0,23,Economy,1750
+Cat,Ringworm,Severe,4.8,16,Standard,3650
+Cat,Urinary Tract Infection,Mild,4.4,14,Standard,2100
+Dog,Urinary Tract Infection,Moderate,16.9,9,Premium,4200
+Cat,Otitis Externa,Moderate,4.9,9,Standard,1750
+Dog,Urinary Tract Infection,Moderate,16.2,12,Economy,2150
+Cat,Conjunctivitis,Severe,4.2,7,Premium,3450
+Dog,Gastroenteritis,Moderate,9.2,8,Standard,2600
+Dog,Dental Disease,Moderate,7.2,19,Premium,5850
+Cat,Flea Allergy Dermatitis,Mild,3.0,21,Standard,1750
+Dog,Ringworm,Moderate,10.4,19,Standard,3100
+Cat,Dental Disease,Moderate,3.9,12,Standard,3000
+Dog,Dermatitis,Mild,15.0,9,Standard,1400
+Cat,Mange,Moderate,4.6,38,Standard,4150
+Dog,Wound Infection,Mild,14.3,13,Standard,2100
+Cat,Dermatitis,Moderate,4.1,19,Economy,1650
+Cat,Mange,Mild,4.8,17,Standard,1650
+Cat,Wound Infection,Mild,3.7,12,Standard,1500
+Cat,Flea Allergy Dermatitis,Mild,3.6,27,Standard,1900
+Dog,Urinary Tract Infection,Mild,12.6,14,Premium,2700
+Dog,Gastroenteritis,Mild,16.0,4,Premium,2300
+Cat,Mange,Moderate,2.7,41,Standard,4050
+Dog,Gastroenteritis,Moderate,20.5,5,Economy,2050
+Cat,Urinary Tract Infection,Severe,3.5,13,Standard,4200
+Dog,Mange,Severe,4.0,27,Premium,7200
+Cat,Dental Disease,Moderate,3.4,12,Standard,3400
+Cat,Otitis Externa,Moderate,3.7,9,Premium,2800
+Cat,Dermatitis,Mild,5.1,10,Economy,500
+Cat,Flea Allergy Dermatitis,Mild,5.5,28,Economy,1300
+Cat,Dermatitis,Moderate,2.9,20,Premium,3500
+Dog,Mange,Moderate,15.3,17,Standard,3000
+Cat,Otitis Externa,Severe,5.4,18,Standard,3950
+Dog,Gastroenteritis,Moderate,17.1,6,Economy,1700
+Dog,Otitis Externa,Moderate,15.9,13,Economy,1900
+Cat,Ringworm,Mild,4.3,14,Economy,1300
+Cat,Dermatitis,Moderate,4.2,9,Standard,2100
+Dog,Mange,Moderate,12.1,30,Standard,3800
+Dog,Dermatitis,Severe,15.5,8,Economy,2450
+Dog,Gastroenteritis,Moderate,15.1,9,Standard,2500
+Cat,Flea Allergy Dermatitis,Mild,2.6,12,Standard,1300
+Cat,Flea Allergy Dermatitis,Moderate,3.8,24,Standard,2500
+Cat,Gastroenteritis,Severe,5.3,3,Standard,3650
+Cat,Gastroenteritis,Moderate,4.0,7,Premium,2950
+Dog,Wound Infection,Moderate,8.8,16,Standard,2900
+Cat,Flea Allergy Dermatitis,Mild,3.1,22,Standard,1700
+Cat,Flea Allergy Dermatitis,Moderate,5.4,10,Economy,1350
+Cat,Urinary Tract Infection,Moderate,4.4,12,Standard,2450
+Cat,Mange,Mild,3.1,34,Standard,2450
+Cat,Conjunctivitis,Moderate,4.8,8,Standard,1650
+Dog,Dental Disease,Severe,6.7,17,Premium,8400
+Cat,Dental Disease,Mild,3.7,23,Standard,2350
+Dog,Flea Allergy Dermatitis,Mild,19.1,24,Standard,2250
+Dog,Dental Disease,Moderate,23.4,19,Economy,3900
+Dog,Urinary Tract Infection,Severe,19.6,12,Standard,5300
+Dog,Conjunctivitis,Mild,15.1,6,Standard,1350
+Dog,Flea Allergy Dermatitis,Moderate,14.6,20,Standard,2450
+Dog,Wound Infection,Mild,5.1,16,Standard,1600
+Cat,Conjunctivitis,Mild,3.5,14,Standard,1600
+Cat,Conjunctivitis,Moderate,5.1,9,Standard,1800
+Cat,Conjunctivitis,Moderate,4.7,7,Standard,1350
+Cat,Conjunctivitis,Moderate,5.6,13,Standard,2100
+Cat,Wound Infection,Mild,5.9,17,Standard,1900
+Cat,Urinary Tract Infection,Mild,3.0,7,Standard,1400
+Cat,Dermatitis,Mild,3.9,18,Standard,1600
+Cat,Dental Disease,Moderate,3.3,21,Economy,2950
+Cat,Flea Allergy Dermatitis,Mild,3.4,16,Economy,1200
+Cat,Wound Infection,Moderate,3.8,20,Standard,2850
+Dog,Flea Allergy Dermatitis,Moderate,7.2,13,Standard,1850
+Cat,Conjunctivitis,Mild,3.2,5,Economy,800
+Dog,Otitis Externa,Moderate,5.1,16,Premium,3900
+Cat,Wound Infection,Severe,4.4,11,Standard,3600
+Cat,Ringworm,Moderate,3.4,15,Premium,3550
+Cat,Flea Allergy Dermatitis,Moderate,3.6,23,Standard,2450
+Cat,Gastroenteritis,Mild,5.3,5,Standard,1250
+Dog,Gastroenteritis,Moderate,14.2,7,Premium,3500
+Dog,Otitis Externa,Moderate,20.0,12,Premium,4100
+Dog,Flea Allergy Dermatitis,Severe,6.0,24,Premium,5950
+Cat,Mange,Severe,4.1,28,Standard,4900
+Dog,Dental Disease,Moderate,10.1,30,Standard,5150
+Dog,Otitis Externa,Moderate,6.8,8,Standard,1950
+Dog,Mange,Severe,10.3,30,Standard,5850
+Dog,Gastroenteritis,Moderate,12.8,3,Premium,3150
+Cat,Mange,Mild,4.9,27,Standard,2300
+Cat,Gastroenteritis,Mild,3.3,9,Standard,1350
+Cat,Dermatitis,Severe,2.8,12,Standard,3200
+Dog,Wound Infection,Moderate,12.0,18,Standard,3400
+Cat,Ringworm,Moderate,4.9,42,Standard,4700
+Dog,Mange,Moderate,21.8,30,Standard,4450
+Cat,Dermatitis,Moderate,4.6,11,Standard,1650
+Cat,Gastroenteritis,Moderate,4.5,4,Standard,1900
+Cat,Urinary Tract Infection,Mild,2.9,10,Premium,2400
+Cat,Gastroenteritis,Severe,5.6,9,Premium,5150
+Dog,Wound Infection,Moderate,23.3,7,Economy,2300
+Dog,Mange,Mild,14.9,40,Economy,2450
+Dog,Dental Disease,Severe,18.8,17,Standard,7150
+Cat,Ringworm,Moderate,3.6,35,Standard,4000
+Cat,Otitis Externa,Mild,3.7,13,Standard,950
+Cat,Ringworm,Moderate,3.6,15,Premium,3600
+Dog,Conjunctivitis,Moderate,14.9,11,Economy,1650
+Dog,Wound Infection,Mild,22.0,9,Economy,1400
+Cat,Wound Infection,Moderate,6.0,19,Standard,3000
+Dog,Dermatitis,Mild,13.8,10,Standard,1550
+Dog,Wound Infection,Mild,4.2,19,Standard,1700
+Cat,Flea Allergy Dermatitis,Mild,4.7,19,Premium,1900
+Cat,Wound Infection,Mild,3.0,9,Standard,1700
+Dog,Urinary Tract Infection,Moderate,23.2,10,Premium,5000
+Cat,Dermatitis,Mild,2.8,17,Economy,1350
+Dog,Gastroenteritis,Moderate,13.4,4,Premium,3650
+Cat,Otitis Externa,Mild,2.6,15,Economy,1050
+Dog,Dental Disease,Severe,14.1,18,Standard,6700
+Dog,Mange,Mild,21.4,14,Premium,2850
+Dog,Gastroenteritis,Severe,16.6,9,Standard,4650
+Cat,Urinary Tract Infection,Moderate,2.9,14,Standard,2950
+Dog,Urinary Tract Infection,Moderate,16.8,9,Standard,2950
+Dog,Dental Disease,Moderate,8.8,27,Premium,7150
+Dog,Urinary Tract Infection,Moderate,20.0,14,Standard,3350
+Dog,Dermatitis,Moderate,23.1,19,Premium,4250
+Dog,Wound Infection,Mild,14.1,18,Standard,2100
+Cat,Dermatitis,Moderate,5.5,19,Standard,2300
+Dog,Dental Disease,Moderate,21.2,14,Standard,4300
+Dog,Conjunctivitis,Mild,13.0,14,Premium,2350
+Cat,Urinary Tract Infection,Moderate,3.7,8,Standard,2350
+Cat,Conjunctivitis,Moderate,6.5,8,Standard,1900
+Cat,Ringworm,Moderate,3.0,19,Premium,3850
+Dog,Flea Allergy Dermatitis,Moderate,15.9,21,Premium,4050
+Cat,Flea Allergy Dermatitis,Moderate,4.0,12,Standard,1650
+Dog,Otitis Externa,Mild,14.9,18,Standard,1850
+Cat,Mange,Mild,2.3,26,Standard,1750
+Dog,Otitis Externa,Moderate,11.2,11,Economy,1800
+Dog,Dental Disease,Moderate,20.7,30,Economy,4500
+Dog,Otitis Externa,Moderate,14.5,16,Standard,2700
+Cat,Conjunctivitis,Mild,3.7,10,Premium,1600
+Dog,Mange,Mild,23.5,41,Premium,5650
+Dog,Dental Disease,Moderate,15.9,21,Standard,4750
+Dog,Otitis Externa,Moderate,13.5,9,Standard,2100
+Cat,Otitis Externa,Mild,3.2,20,Standard,1600
+Cat,Flea Allergy Dermatitis,Moderate,4.7,10,Economy,1250
+Dog,Otitis Externa,Mild,22.1,17,Economy,1750
+Dog,Ringworm,Moderate,15.2,14,Standard,2700
+Dog,Ringworm,Moderate,16.4,39,Standard,5050
+Dog,Gastroenteritis,Mild,8.2,5,Standard,1650
+Dog,Gastroenteritis,Severe,14.2,8,Standard,4000
+Cat,Gastroenteritis,Moderate,3.1,6,Standard,2050
+Cat,Dermatitis,Moderate,4.6,13,Standard,1900
+Dog,Dermatitis,Moderate,10.0,16,Economy,1700
+Dog,Conjunctivitis,Moderate,14.9,9,Standard,1900
+Cat,Urinary Tract Infection,Mild,4.7,10,Economy,1050
+Cat,Gastroenteritis,Moderate,3.4,4,Standard,2200
+Cat,Gastroenteritis,Moderate,5.9,3,Standard,2100
+Cat,Gastroenteritis,Moderate,4.6,4,Standard,2300
+Cat,Gastroenteritis,Moderate,4.4,3,Standard,1850
+Cat,Dermatitis,Severe,3.2,14,Standard,3150
+Dog,Urinary Tract Infection,Mild,10.6,13,Premium,2700
+Cat,Urinary Tract Infection,Moderate,2.7,11,Premium,3850
+Cat,Wound Infection,Moderate,4.9,12,Economy,2000
+Dog,Wound Infection,Mild,16.7,13,Premium,2750
+Dog,Mange,Severe,10.6,24,Economy,3700
+Cat,Dermatitis,Mild,3.7,16,Standard,1100
+Dog,Mange,Moderate,7.7,19,Premium,3800
+Dog,Dental Disease,Moderate,11.1,14,Premium,5250
+Dog,Gastroenteritis,Mild,19.7,6,Standard,1650
+Dog,Dental Disease,Moderate,18.0,29,Standard,5500
+Cat,Urinary Tract Infection,Mild,2.3,7,Economy,1100
+Dog,Wound Infection,Mild,13.1,17,Standard,2150
+Dog,Dental Disease,Moderate,10.9,28,Standard,5000
+Dog,Conjunctivitis,Mild,10.8,10,Standard,1250
+Dog,Conjunctivitis,Mild,14.5,12,Standard,1550
+Dog,Gastroenteritis,Moderate,19.8,8,Standard,2900
+Cat,Dental Disease,Severe,2.3,28,Standard,7350
+Cat,Dental Disease,Mild,3.2,20,Standard,2600
+Dog,Urinary Tract Infection,Moderate,11.6,10,Standard,2750
+Dog,Otitis Externa,Moderate,16.3,10,Standard,2450
+Cat,Otitis Externa,Moderate,4.4,16,Economy,1850
+Cat,Otitis Externa,Mild,3.0,12,Standard,1350
+Cat,Gastroenteritis,Mild,3.8,10,Standard,1450
+Dog,Dental Disease,Mild,14.6,11,Standard,2500
+Dog,Mange,Moderate,10.8,30,Economy,2800
+Cat,Mange,Severe,3.6,35,Premium,8150
+Cat,Ringworm,Moderate,6.8,17,Standard,2850
+Cat,Otitis Externa,Moderate,3.4,15,Standard,1950
+Dog,Dermatitis,Mild,10.1,16,Standard,1700
+Cat,Dermatitis,Mild,4.5,16,Standard,1300
+Cat,Dental Disease,Moderate,4.0,15,Premium,4700
+Dog,Dental Disease,Moderate,20.8,7,Standard,3750
+Dog,Gastroenteritis,Moderate,9.1,9,Premium,3450
+Dog,Gastroenteritis,Mild,16.4,10,Economy,1250
+Cat,Otitis Externa,Mild,3.9,11,Standard,1350
+Dog,Dental Disease,Moderate,10.2,17,Standard,3950
+Dog,Gastroenteritis,Mild,17.7,7,Standard,1600
+Dog,Dermatitis,Moderate,16.3,13,Standard,2350
+Cat,Conjunctivitis,Moderate,3.5,8,Premium,2250
+Cat,Conjunctivitis,Moderate,2.7,5,Premium,2050
+Dog,Conjunctivitis,Mild,14.1,12,Standard,1500
+Cat,Dental Disease,Mild,3.8,17,Standard,1950
+Dog,Urinary Tract Infection,Severe,20.8,14,Economy,4300
+Dog,Conjunctivitis,Mild,11.9,5,Economy,750
+Cat,Urinary Tract Infection,Severe,5.5,14,Premium,6750
+Dog,Dermatitis,Mild,11.2,12,Standard,1400
+Dog,Conjunctivitis,Moderate,9.3,13,Economy,1550
+Dog,Gastroenteritis,Severe,14.7,3,Standard,3900
+Cat,Dental Disease,Moderate,5.6,26,Economy,3150
+Cat,Mange,Mild,6.5,20,Standard,1750
+Dog,Conjunctivitis,Moderate,13.0,14,Economy,1700
+Cat,Dermatitis,Severe,2.7,18,Standard,3500
+Dog,Mange,Mild,17.3,18,Premium,3050
+Cat,Flea Allergy Dermatitis,Mild,3.8,22,Standard,1900
+Dog,Ringworm,Moderate,7.8,31,Standard,3750
+Cat,Conjunctivitis,Severe,3.0,9,Standard,2450
+Dog,Gastroenteritis,Moderate,18.7,7,Standard,2700
+Cat,Wound Infection,Moderate,3.6,19,Premium,4100
+Cat,Otitis Externa,Moderate,5.0,20,Standard,2850
+Dog,Mange,Severe,7.4,22,Economy,3550
+Cat,Otitis Externa,Moderate,4.3,10,Standard,2000
+Cat,Ringworm,Mild,5.3,35,Standard,2750
+Dog,Ringworm,Moderate,11.0,18,Standard,3050
+Cat,Dental Disease,Severe,2.9,14,Standard,5250
+Dog,Conjunctivitis,Moderate,10.0,10,Standard,1550
+Cat,Wound Infection,Severe,4.9,8,Premium,5250
+Dog,Flea Allergy Dermatitis,Severe,9.5,14,Economy,2350
+Cat,Otitis Externa,Mild,3.3,21,Standard,1900
+Dog,Wound Infection,Mild,18.0,19,Standard,2400
+Dog,Conjunctivitis,Moderate,9.1,7,Economy,1500
+Dog,Gastroenteritis,Moderate,10.6,8,Premium,3050
+Dog,Dermatitis,Mild,17.2,14,Economy,1000
+Dog,Urinary Tract Infection,Moderate,12.7,7,Economy,2050
+Dog,Dental Disease,Severe,9.8,25,Economy,5350
+Dog,Wound Infection,Mild,13.6,20,Premium,3300
+Cat,Gastroenteritis,Moderate,5.0,6,Economy,1300
+Dog,Ringworm,Mild,7.9,37,Premium,3850
+Cat,Mange,Mild,5.7,19,Premium,2750
+Dog,Wound Infection,Mild,18.9,21,Standard,2550
+Dog,Flea Allergy Dermatitis,Moderate,7.7,25,Standard,2750
+Cat,Ringworm,Mild,5.0,30,Premium,3700
+Cat,Wound Infection,Moderate,4.3,18,Standard,2850
+Cat,Mange,Moderate,2.7,22,Standard,3050
+Dog,Gastroenteritis,Severe,11.9,7,Economy,2500
+Dog,Mange,Moderate,16.7,38,Standard,4850
+Dog,Flea Allergy Dermatitis,Moderate,21.7,25,Standard,3300
+Cat,Urinary Tract Infection,Mild,3.7,12,Standard,2050
+Cat,Dermatitis,Mild,4.2,21,Standard,1500
+Dog,Mange,Moderate,18.0,15,Standard,2750
+Dog,Urinary Tract Infection,Mild,17.0,13,Standard,1950
+Cat,Otitis Externa,Moderate,3.8,16,Standard,2400
+Dog,Dental Disease,Moderate,22.2,19,Economy,4000
+Dog,Flea Allergy Dermatitis,Moderate,9.2,26,Economy,2150
+Dog,Gastroenteritis,Severe,11.6,7,Standard,3900
+Dog,Dental Disease,Moderate,9.1,7,Standard,2950
+Dog,Otitis Externa,Moderate,22.2,20,Economy,2700
+Dog,Dental Disease,Mild,16.4,8,Standard,2150
+Cat,Flea Allergy Dermatitis,Mild,3.2,11,Premium,1800
+Cat,Dental Disease,Moderate,3.1,9,Premium,4450
+Dog,Ringworm,Severe,15.1,35,Standard,7350
+Dog,Ringworm,Moderate,14.2,23,Premium,5100
+Cat,Wound Infection,Moderate,3.6,17,Economy,2300
+Dog,Wound Infection,Mild,8.2,20,Economy,1350
+Dog,Flea Allergy Dermatitis,Mild,9.8,24,Economy,1700
+Dog,Conjunctivitis,Mild,17.4,7,Premium,1600
+Cat,Wound Infection,Severe,3.7,7,Economy,2950
+Dog,Wound Infection,Moderate,10.8,7,Standard,2450
+Cat,Otitis Externa,Mild,4.8,9,Standard,1050
+Dog,Flea Allergy Dermatitis,Moderate,11.9,17,Premium,3550
+Cat,Wound Infection,Moderate,3.3,14,Economy,1900
+Dog,Dental Disease,Mild,9.6,12,Economy,1700
+Dog,Ringworm,Moderate,8.9,31,Economy,3250
+Dog,Dental Disease,Moderate,5.8,10,Standard,3200
+Cat,Gastroenteritis,Moderate,5.9,4,Standard,2100
+Cat,Urinary Tract Infection,Mild,4.9,12,Standard,1800
+Dog,Urinary Tract Infection,Severe,21.4,14,Standard,5550
+Cat,Ringworm,Moderate,3.7,28,Economy,2450
+Dog,Flea Allergy Dermatitis,Moderate,20.4,23,Economy,2300
+Dog,Wound Infection,Mild,13.3,16,Standard,2050
+Dog,Flea Allergy Dermatitis,Severe,12.5,7,Economy,2150
+Dog,Gastroenteritis,Moderate,16.2,10,Economy,2200
+Dog,Ringworm,Moderate,12.8,18,Standard,2800
+Dog,Ringworm,Moderate,9.8,31,Standard,4150
+Cat,Gastroenteritis,Severe,4.1,6,Standard,3300
+Dog,Dental Disease,Mild,8.4,13,Economy,1550
+Cat,Flea Allergy Dermatitis,Mild,4.0,20,Standard,1900
+Cat,Conjunctivitis,Moderate,3.4,10,Economy,1050
+Cat,Urinary Tract Infection,Moderate,2.4,12,Premium,3400
+Dog,Mange,Moderate,10.2,36,Economy,2700
+Dog,Flea Allergy Dermatitis,Moderate,18.3,7,Premium,3000
+Cat,Dermatitis,Mild,4.3,20,Standard,1450
+Dog,Dental Disease,Mild,11.1,11,Standard,2250
+Dog,Gastroenteritis,Mild,15.2,4,Standard,1450
+Dog,Dermatitis,Mild,5.0,10,Economy,1050
+Dog,Otitis Externa,Mild,11.4,9,Economy,800
+Dog,Conjunctivitis,Mild,6.6,10,Standard,800
+Cat,Otitis Externa,Moderate,4.7,12,Economy,1300
+Cat,Ringworm,Moderate,2.7,23,Premium,4150
+Dog,Dermatitis,Moderate,14.6,17,Standard,2600
+Cat,Mange,Mild,6.0,38,Standard,3050
+Dog,Mange,Moderate,7.8,32,Economy,2800
+Dog,Conjunctivitis,Moderate,12.9,10,Standard,2050
+Cat,Ringworm,Mild,5.4,18,Economy,1200
+Cat,Flea Allergy Dermatitis,Mild,5.1,18,Economy,950
+Cat,Urinary Tract Infection,Moderate,6.0,14,Standard,2850
+Cat,Otitis Externa,Mild,3.6,19,Standard,1850
+Cat,Dermatitis,Mild,5.4,20,Premium,1900
+Cat,Urinary Tract Infection,Mild,6.3,7,Standard,1250
+Cat,Dermatitis,Moderate,3.9,13,Premium,2900
+Dog,Otitis Externa,Moderate,19.8,9,Economy,1850
+Cat,Conjunctivitis,Mild,3.0,7,Standard,1200
+Cat,Flea Allergy Dermatitis,Moderate,2.9,11,Standard,1850
+Dog,Otitis Externa,Mild,17.3,8,Premium,2350
+Dog,Otitis Externa,Mild,21.2,9,Premium,2200
+Cat,Mange,Mild,3.1,17,Standard,1700
+Dog,Flea Allergy Dermatitis,Mild,4.4,16,Standard,1100
+Dog,Gastroenteritis,Mild,27.3,5,Economy,1400
+Dog,Ringworm,Moderate,18.5,24,Standard,3550
+Cat,Gastroenteritis,Mild,4.1,9,Standard,1400
+Cat,Urinary Tract Infection,Severe,3.9,10,Standard,4050
+Cat,Urinary Tract Infection,Moderate,5.2,11,Economy,1850
+Dog,Mange,Moderate,13.1,25,Premium,5350
+Dog,Dermatitis,Severe,9.7,12,Premium,4750
+Dog,Gastroenteritis,Mild,20.1,7,Standard,1750
+Cat,Dermatitis,Severe,3.4,17,Standard,3300
+Dog,Dental Disease,Severe,17.0,28,Economy,6800
+Cat,Urinary Tract Infection,Moderate,3.2,12,Standard,2500
+Dog,Dental Disease,Mild,13.7,10,Premium,3500
+Cat,Urinary Tract Infection,Mild,5.7,7,Standard,1500
+Cat,Mange,Moderate,5.0,30,Standard,3450
+Dog,Flea Allergy Dermatitis,Moderate,21.1,9,Premium,3150
+Cat,Dermatitis,Moderate,4.0,18,Premium,3000
+Dog,Flea Allergy Dermatitis,Mild,13.5,14,Standard,1550
+Cat,Otitis Externa,Severe,4.6,20,Standard,4150
+Dog,Dermatitis,Moderate,15.8,18,Standard,2200
+Dog,Flea Allergy Dermatitis,Mild,22.8,16,Premium,2800
+Cat,Mange,Mild,6.2,15,Standard,1750
+Cat,Conjunctivitis,Severe,5.1,9,Standard,2350
+Dog,Wound Infection,Moderate,14.2,13,Standard,2650
+Dog,Urinary Tract Infection,Moderate,16.2,7,Premium,3850
+Cat,Otitis Externa,Mild,5.2,11,Economy,1100
+Dog,Wound Infection,Moderate,12.9,19,Standard,3300
+Dog,Wound Infection,Moderate,12.3,8,Standard,2200
+Dog,Dental Disease,Moderate,19.5,22,Standard,5150
+Dog,Mange,Severe,5.7,37,Premium,8750
+Cat,Mange,Moderate,3.5,16,Standard,2350
+Dog,Urinary Tract Infection,Severe,23.1,7,Economy,3400
+Cat,Dental Disease,Moderate,4.0,19,Economy,2850
+Dog,Ringworm,Mild,6.5,17,Standard,1850
+Dog,Flea Allergy Dermatitis,Mild,11.6,19,Economy,1250
+Dog,Flea Allergy Dermatitis,Moderate,7.8,19,Economy,1700
+Cat,Gastroenteritis,Moderate,2.8,3,Premium,3000
+Cat,Gastroenteritis,Mild,4.6,3,Premium,1750
+Dog,Dermatitis,Mild,23.4,11,Standard,1900
+Dog,Otitis Externa,Severe,23.7,19,Economy,4250
+Cat,Otitis Externa,Mild,4.5,20,Economy,1700
+Dog,Gastroenteritis,Moderate,16.8,7,Standard,2700
+Cat,Gastroenteritis,Moderate,5.1,5,Premium,3000
+Cat,Gastroenteritis,Moderate,4.0,4,Economy,1300
+Dog,Urinary Tract Infection,Severe,21.0,9,Premium,7000
+Cat,Dental Disease,Mild,2.5,18,Economy,1500
+Dog,Conjunctivitis,Mild,8.1,11,Economy,1250
+Cat,Ringworm,Severe,3.4,21,Standard,4350
+Dog,Conjunctivitis,Moderate,14.5,12,Premium,3050
+Dog,Mange,Mild,17.4,37,Economy,2400
+Cat,Wound Infection,Severe,4.3,7,Standard,3450
+Dog,Conjunctivitis,Mild,10.7,11,Premium,2050
+Dog,Wound Infection,Severe,8.6,15,Standard,4700
+Dog,Ringworm,Moderate,10.7,38,Economy,3600
+Dog,Dermatitis,Moderate,15.5,20,Economy,2100
+Dog,Otitis Externa,Mild,16.7,13,Economy,1650
+Dog,Wound Infection,Mild,20.2,20,Premium,4000
+Dog,Flea Allergy Dermatitis,Moderate,11.3,16,Economy,1950
+Cat,Ringworm,Moderate,4.2,26,Standard,2900
+Cat,Gastroenteritis,Moderate,4.5,6,Premium,2850
+Cat,Dermatitis,Mild,3.3,8,Standard,1100
+Cat,Flea Allergy Dermatitis,Moderate,3.7,10,Standard,1800
+Cat,Urinary Tract Infection,Moderate,3.1,12,Standard,2850
+Cat,Conjunctivitis,Mild,2.8,8,Standard,850
+Cat,Flea Allergy Dermatitis,Moderate,3.9,8,Standard,1650
+Dog,Mange,Moderate,7.3,29,Economy,3000
+Cat,Urinary Tract Infection,Mild,4.2,11,Standard,1550
+Dog,Dental Disease,Mild,19.0,27,Standard,3550
+Cat,Dental Disease,Mild,4.4,10,Standard,1850
+Cat,Wound Infection,Severe,5.0,14,Standard,4200
+Cat,Wound Infection,Severe,6.0,9,Standard,3850
+Cat,Mange,Mild,5.0,39,Economy,2150
+Cat,Wound Infection,Mild,4.0,20,Economy,1600
+Dog,Urinary Tract Infection,Moderate,16.6,8,Economy,1900
+Dog,Dermatitis,Mild,5.8,15,Economy,1400
+Cat,Otitis Externa,Mild,3.6,8,Standard,1200
+Cat,Gastroenteritis,Moderate,3.8,7,Standard,1950
+Cat,Dermatitis,Mild,2.8,14,Economy,1400
+Cat,Flea Allergy Dermatitis,Moderate,4.0,23,Economy,2000
+Dog,Dental Disease,Mild,23.6,11,Standard,2750
+Dog,Urinary Tract Infection,Mild,21.1,11,Economy,1700
+Cat,Conjunctivitis,Moderate,5.4,13,Economy,1650
+Cat,Flea Allergy Dermatitis,Moderate,3.5,9,Premium,2400
+Cat,Wound Infection,Moderate,4.7,19,Premium,4350
+Cat,Dental Disease,Moderate,4.6,18,Standard,3800
+Dog,Otitis Externa,Severe,8.5,20,Standard,4100
+Cat,Wound Infection,Moderate,3.8,19,Standard,2700
+Cat,Mange,Moderate,3.0,26,Standard,2550
+Cat,Dermatitis,Mild,4.0,20,Economy,1150
+Dog,Mange,Severe,21.5,24,Standard,6100
+Cat,Flea Allergy Dermatitis,Mild,2.7,7,Standard,1000
+Cat,Dental Disease,Mild,3.1,10,Economy,1800
+Cat,Conjunctivitis,Moderate,4.8,8,Standard,1550
+Dog,Dermatitis,Mild,20.2,9,Economy,1200
+Dog,Ringworm,Mild,19.1,37,Premium,5300
+Dog,Dermatitis,Moderate,11.2,9,Standard,1850
+Cat,Gastroenteritis,Mild,5.5,5,Standard,1100
+Dog,Urinary Tract Infection,Moderate,18.4,8,Premium,4350
+Dog,Conjunctivitis,Mild,17.4,9,Standard,1400
+Cat,Dermatitis,Severe,2.9,7,Standard,3100
+Cat,Gastroenteritis,Moderate,4.1,5,Standard,1950
+Cat,Gastroenteritis,Mild,3.6,7,Standard,1450
+Cat,Dental Disease,Mild,4.6,12,Economy,1500
+Dog,Flea Allergy Dermatitis,Mild,22.7,26,Standard,2350
+Cat,Dental Disease,Moderate,4.2,19,Premium,5900
+Cat,Dental Disease,Moderate,3.2,9,Economy,2500
+Dog,Ringworm,Mild,5.9,33,Standard,2700
+Cat,Gastroenteritis,Moderate,3.0,10,Standard,2350
+Dog,Conjunctivitis,Mild,23.8,14,Standard,1750
+Cat,Gastroenteritis,Severe,5.7,10,Standard,3550
+Dog,Conjunctivitis,Severe,9.9,14,Standard,3200
+Dog,Flea Allergy Dermatitis,Mild,6.5,17,Standard,1750
+Dog,Ringworm,Severe,12.5,32,Standard,6450
+Dog,Dermatitis,Moderate,14.9,15,Standard,2550
+Cat,Conjunctivitis,Severe,4.4,12,Economy,2000
+Cat,Mange,Moderate,3.4,34,Standard,3700
+Dog,Conjunctivitis,Severe,13.6,9,Premium,4350
+Cat,Conjunctivitis,Moderate,5.5,5,Standard,1450
+Dog,Dental Disease,Mild,23.1,19,Economy,2750
+Cat,Urinary Tract Infection,Mild,3.5,9,Standard,1250
+Cat,Conjunctivitis,Severe,3.4,12,Economy,1600
+Dog,Mange,Mild,7.3,36,Premium,4050
+Dog,Conjunctivitis,Mild,6.6,6,Standard,950
+Cat,Mange,Mild,4.9,26,Standard,2150
+Dog,Wound Infection,Mild,8.3,17,Standard,2100
+Cat,Wound Infection,Severe,4.3,13,Standard,4050
+Dog,Flea Allergy Dermatitis,Moderate,8.1,22,Premium,3750
+Dog,Otitis Externa,Moderate,19.3,11,Economy,2200
+Cat,Urinary Tract Infection,Moderate,3.6,13,Premium,3600
+Cat,Ringworm,Moderate,4.3,34,Standard,3900
+Cat,Urinary Tract Infection,Moderate,4.0,7,Economy,1800
+Cat,Dermatitis,Moderate,2.9,7,Premium,2300
+Cat,Wound Infection,Moderate,5.5,11,Standard,2600
+Cat,Wound Infection,Moderate,3.2,17,Standard,2650
+Cat,Otitis Externa,Severe,3.6,7,Standard,2950
+Cat,Wound Infection,Mild,3.4,8,Standard,1700
+Dog,Flea Allergy Dermatitis,Severe,15.4,27,Economy,3650
+Cat,Wound Infection,Severe,3.6,21,Economy,3750
+Cat,Dental Disease,Mild,5.4,18,Economy,1650
+Cat,Flea Allergy Dermatitis,Mild,2.7,13,Standard,1150
+Dog,Gastroenteritis,Mild,9.3,7,Economy,1200
+Cat,Mange,Moderate,2.6,19,Premium,3700
+Cat,Wound Infection,Severe,4.7,16,Standard,4400
+Dog,Flea Allergy Dermatitis,Mild,11.9,7,Premium,1800
+Cat,Conjunctivitis,Moderate,4.5,14,Standard,1750
+Cat,Mange,Mild,3.8,32,Standard,2300
+Dog,Urinary Tract Infection,Moderate,13.1,12,Standard,3300
+Dog,Conjunctivitis,Severe,8.6,13,Premium,4200
+Cat,Gastroenteritis,Mild,4.7,8,Standard,1600
+Dog,Dental Disease,Mild,8.0,23,Standard,2900
+Cat,Conjunctivitis,Severe,4.4,14,Standard,2950
+Cat,Conjunctivitis,Severe,4.2,12,Standard,3050
+Dog,Gastroenteritis,Mild,14.8,7,Economy,1150
+Cat,Otitis Externa,Moderate,3.0,12,Standard,2350
+Cat,Conjunctivitis,Mild,2.8,5,Standard,1000
+Cat,Ringworm,Moderate,5.8,33,Standard,4000
+Dog,Wound Infection,Severe,19.2,13,Standard,5100
+Dog,Urinary Tract Infection,Severe,12.0,13,Economy,3400
+Dog,Dental Disease,Severe,8.7,15,Standard,6200
+Cat,Conjunctivitis,Mild,3.8,6,Premium,1800
+Dog,Mange,Mild,5.0,34,Economy,2050
+Dog,Gastroenteritis,Severe,10.0,4,Economy,2600
+Cat,Wound Infection,Moderate,3.7,11,Premium,3500
+Cat,Gastroenteritis,Moderate,5.0,9,Premium,3200
+Dog,Flea Allergy Dermatitis,Mild,12.2,18,Economy,1050
+Dog,Dental Disease,Mild,22.1,13,Standard,2650
+Cat,Wound Infection,Mild,4.6,18,Standard,1900
+Cat,Conjunctivitis,Severe,2.4,13,Standard,2650
+Dog,Dermatitis,Mild,6.6,9,Standard,1300
+Cat,Urinary Tract Infection,Severe,4.3,8,Standard,3600
+Cat,Dermatitis,Mild,4.2,21,Standard,1500
+Cat,Ringworm,Mild,2.6,15,Economy,1450
+Dog,Dermatitis,Severe,25.1,12,Standard,3750
+Cat,Urinary Tract Infection,Mild,2.5,14,Standard,1950
+Cat,Otitis Externa,Severe,4.1,15,Standard,3500
+Cat,Ringworm,Moderate,4.0,34,Economy,3150
+Cat,Otitis Externa,Moderate,5.3,14,Standard,2550
+Dog,Dental Disease,Severe,14.4,26,Standard,8250
+Dog,Dermatitis,Severe,15.7,16,Economy,3050
+Cat,Dermatitis,Moderate,5.5,16,Economy,1500
+Dog,Ringworm,Mild,15.4,38,Premium,5050
+Dog,Wound Infection,Moderate,28.1,8,Economy,2600
+Dog,Wound Infection,Moderate,4.9,17,Standard,2800
+Cat,Ringworm,Mild,3.2,29,Standard,2400
+Dog,Mange,Moderate,20.5,39,Standard,5200
+Dog,Flea Allergy Dermatitis,Moderate,15.0,18,Economy,1700
+Cat,Flea Allergy Dermatitis,Moderate,2.6,16,Standard,1700
+Cat,Flea Allergy Dermatitis,Severe,3.0,23,Standard,3750
+Cat,Urinary Tract Infection,Mild,4.7,7,Standard,1450
+Cat,Otitis Externa,Moderate,5.8,21,Standard,2550
+Dog,Ringworm,Moderate,19.8,20,Economy,2650
+Dog,Dental Disease,Mild,18.2,20,Standard,3100
+Dog,Dental Disease,Mild,18.3,27,Premium,5100
+Cat,Flea Allergy Dermatitis,Moderate,2.7,24,Standard,2700
+Dog,Wound Infection,Moderate,11.4,13,Standard,2650
+Cat,Dermatitis,Mild,5.2,20,Standard,1800
+Cat,Urinary Tract Infection,Severe,5.8,12,Premium,5850
+Dog,Mange,Mild,6.6,19,Premium,2450
+Dog,Gastroenteritis,Mild,9.9,8,Standard,1950
+Cat,Conjunctivitis,Mild,2.8,9,Standard,1150
+Cat,Mange,Severe,3.4,28,Standard,4800
+Cat,Urinary Tract Infection,Mild,3.5,14,Economy,1050
+Cat,Gastroenteritis,Mild,4.2,6,Economy,1150
+Cat,Flea Allergy Dermatitis,Severe,3.6,27,Economy,2950
+Cat,Urinary Tract Infection,Moderate,5.0,14,Premium,3950
+Dog,Dental Disease,Mild,15.3,14,Standard,2650
+Cat,Gastroenteritis,Moderate,3.8,6,Standard,2000
+Cat,Otitis Externa,Mild,5.9,20,Standard,1600
+Dog,Gastroenteritis,Moderate,17.5,4,Premium,3750
+Dog,Otitis Externa,Moderate,10.9,9,Standard,2350
+Dog,Mange,Mild,6.6,14,Economy,1350
+Dog,Dental Disease,Moderate,12.5,28,Premium,7050
+Cat,Flea Allergy Dermatitis,Moderate,3.8,28,Premium,3600
+Cat,Dental Disease,Moderate,3.9,24,Premium,6000
+Dog,Conjunctivitis,Moderate,16.0,8,Economy,1500
+Cat,Flea Allergy Dermatitis,Moderate,4.3,17,Premium,3100
+Cat,Dental Disease,Moderate,4.2,10,Economy,2400
+Cat,Dermatitis,Severe,3.4,13,Economy,2100
+Dog,Flea Allergy Dermatitis,Mild,11.8,7,Economy,1050
+Dog,Dermatitis,Mild,16.5,15,Standard,1700
+Cat,Dental Disease,Mild,3.3,25,Standard,2600
+Cat,Gastroenteritis,Mild,4.4,4,Standard,1400
+Cat,Wound Infection,Mild,3.2,12,Premium,2050
+Cat,Ringworm,Severe,3.5,23,Standard,4350
+Dog,Urinary Tract Infection,Severe,18.9,13,Standard,4900
+Cat,Wound Infection,Moderate,3.4,20,Standard,3050
+Dog,Conjunctivitis,Severe,13.4,10,Standard,3200
+Dog,Gastroenteritis,Moderate,13.2,9,Premium,3950
+Dog,Otitis Externa,Severe,20.1,16,Standard,5000
+Dog,Flea Allergy Dermatitis,Severe,19.7,14,Standard,3950
+Cat,Dental Disease,Severe,4.9,28,Standard,7250
+Dog,Flea Allergy Dermatitis,Moderate,19.3,11,Standard,2500
+Dog,Wound Infection,Severe,21.4,12,Standard,5400
+Dog,Dental Disease,Moderate,8.2,23,Standard,4500
+Cat,Ringworm,Mild,4.3,16,Standard,1700
+Dog,Wound Infection,Moderate,17.6,8,Standard,2800
+Dog,Wound Infection,Mild,15.3,13,Standard,1900
+Dog,Flea Allergy Dermatitis,Mild,10.0,28,Premium,3000
+Cat,Gastroenteritis,Severe,4.2,9,Standard,3600
+Cat,Urinary Tract Infection,Moderate,3.0,14,Standard,2450
+Dog,Conjunctivitis,Mild,15.9,7,Economy,850
+Cat,Dental Disease,Moderate,3.9,27,Premium,6350
+Cat,Gastroenteritis,Mild,5.1,8,Standard,1450
+Dog,Dental Disease,Severe,8.4,7,Standard,5050
+Dog,Flea Allergy Dermatitis,Moderate,6.1,20,Premium,3550
+Dog,Urinary Tract Infection,Mild,13.2,13,Standard,2050
+Dog,Urinary Tract Infection,Mild,11.6,9,Standard,1700
+Dog,Flea Allergy Dermatitis,Mild,15.2,11,Standard,1700
+Dog,Dermatitis,Moderate,12.6,10,Standard,2000
+Cat,Gastroenteritis,Moderate,5.4,6,Standard,2350
+Dog,Mange,Moderate,9.5,42,Standard,4650
+Cat,Ringworm,Severe,6.2,28,Premium,7600
+Dog,Mange,Moderate,16.4,23,Premium,5650
+Cat,Wound Infection,Moderate,4.4,11,Standard,2300
+Dog,Wound Infection,Severe,13.7,13,Economy,3650
+Cat,Otitis Externa,Severe,5.8,20,Standard,4050
+Dog,Wound Infection,Moderate,9.7,21,Standard,3500
+Dog,Conjunctivitis,Moderate,11.2,5,Standard,1600
+Cat,Gastroenteritis,Moderate,3.0,5,Economy,1500
+Cat,Otitis Externa,Mild,4.6,17,Economy,1250
+Cat,Conjunctivitis,Mild,4.7,7,Standard,1000
+Dog,Dermatitis,Mild,17.5,18,Standard,1850
+Cat,Urinary Tract Infection,Moderate,3.1,8,Standard,2350
+Dog,Conjunctivitis,Mild,16.9,11,Standard,1150
+Cat,Otitis Externa,Moderate,4.7,21,Standard,2100
+Dog,Flea Allergy Dermatitis,Moderate,9.5,15,Economy,1500
+Dog,Conjunctivitis,Mild,16.0,11,Standard,1400
+Cat,Dermatitis,Mild,3.7,18,Standard,1750
+Dog,Dental Disease,Mild,18.1,18,Economy,2500
+Cat,Flea Allergy Dermatitis,Moderate,2.7,27,Economy,1850
+Dog,Otitis Externa,Mild,13.0,9,Economy,1200
+Dog,Urinary Tract Infection,Moderate,7.8,14,Premium,4000
+Dog,Dental Disease,Severe,11.5,11,Standard,5700
+Cat,Gastroenteritis,Mild,2.5,4,Economy,800
+Cat,Dental Disease,Moderate,2.8,18,Standard,3950
+Cat,Wound Infection,Moderate,4.8,8,Standard,2050
+Cat,Urinary Tract Infection,Mild,6.2,13,Economy,1550
+Dog,Otitis Externa,Moderate,11.2,17,Standard,2700
+Dog,Wound Infection,Mild,17.9,16,Standard,2250
+Cat,Gastroenteritis,Moderate,4.4,5,Standard,2050
+Dog,Conjunctivitis,Mild,17.4,14,Standard,1550
+Dog,Gastroenteritis,Mild,10.6,4,Premium,1950
+Cat,Urinary Tract Infection,Moderate,5.5,7,Standard,2450
+Dog,Wound Infection,Severe,11.2,21,Standard,5150
+Dog,Otitis Externa,Mild,15.9,10,Premium,2250
+Dog,Conjunctivitis,Severe,4.2,13,Standard,2600
+Dog,Ringworm,Moderate,16.6,18,Standard,3350
+Dog,Dental Disease,Mild,13.1,29,Standard,3400
+Dog,Mange,Moderate,14.1,36,Standard,4500
+Cat,Conjunctivitis,Moderate,3.7,13,Premium,2300
+Cat,Flea Allergy Dermatitis,Moderate,2.1,13,Premium,2650
+Cat,Otitis Externa,Severe,5.4,16,Premium,5100
+Dog,Dental Disease,Mild,11.4,15,Economy,1950
+Cat,Ringworm,Moderate,4.5,25,Standard,3100
+Cat,Dermatitis,Severe,5.2,18,Standard,3700
+Cat,Mange,Moderate,3.3,39,Premium,5600
+Dog,Urinary Tract Infection,Moderate,18.6,11,Standard,2900
+Dog,Gastroenteritis,Mild,10.5,10,Standard,1650
+Dog,Conjunctivitis,Mild,14.3,5,Standard,1100
+Dog,Otitis Externa,Severe,14.2,21,Standard,4450
+Cat,Ringworm,Moderate,2.7,39,Economy,3050
+Dog,Mange,Moderate,9.5,16,Standard,2500
+Dog,Otitis Externa,Moderate,11.3,11,Standard,2550
+Cat,Urinary Tract Infection,Mild,5.7,10,Standard,1800
+Dog,Otitis Externa,Mild,7.8,14,Standard,1300
+Cat,Conjunctivitis,Mild,3.9,6,Economy,650
+Cat,Otitis Externa,Mild,4.2,15,Economy,1200
+Dog,Gastroenteritis,Severe,13.8,8,Premium,5500
+Dog,Dermatitis,Moderate,14.0,7,Standard,1900
+Dog,Mange,Severe,21.4,37,Premium,11200
+Cat,Wound Infection,Mild,4.4,20,Standard,2300
+Cat,Wound Infection,Moderate,3.2,20,Premium,4200
+Cat,Dermatitis,Moderate,2.7,10,Standard,1900
+Dog,Conjunctivitis,Mild,10.4,7,Premium,1600
+Cat,Dermatitis,Severe,4.2,12,Premium,4300
+Cat,Flea Allergy Dermatitis,Moderate,2.6,19,Premium,3200
+Dog,Dental Disease,Mild,19.4,16,Standard,2950
+Dog,Ringworm,Moderate,16.4,38,Economy,3700
+Dog,Conjunctivitis,Moderate,5.3,9,Standard,1700
+Dog,Dental Disease,Mild,13.5,16,Premium,3650
+Dog,Conjunctivitis,Mild,7.3,5,Standard,1050
+Cat,Conjunctivitis,Mild,3.4,10,Economy,600
+Dog,Flea Allergy Dermatitis,Mild,14.6,10,Standard,1450
+Cat,Urinary Tract Infection,Mild,3.9,10,Standard,1400
+Cat,Dental Disease,Mild,3.7,13,Standard,2200
+Dog,Conjunctivitis,Severe,10.9,7,Standard,2450
+Cat,Dermatitis,Moderate,4.0,19,Economy,2050
+Cat,Conjunctivitis,Severe,2.7,5,Premium,3050
+Cat,Ringworm,Mild,4.5,31,Standard,2550
+Cat,Urinary Tract Infection,Mild,5.6,14,Premium,2650
+Cat,Urinary Tract Infection,Mild,3.5,13,Premium,2750
+Cat,Flea Allergy Dermatitis,Mild,3.2,13,Economy,1300
+Cat,Dental Disease,Moderate,5.4,8,Premium,4550
+Dog,Flea Allergy Dermatitis,Moderate,19.6,18,Standard,2850
+Cat,Ringworm,Mild,5.0,22,Standard,2300
+Dog,Gastroenteritis,Mild,14.1,7,Standard,1700
+Dog,Dermatitis,Moderate,14.5,19,Standard,2700
+Dog,Dermatitis,Moderate,12.0,17,Standard,2550
+Dog,Dental Disease,Mild,9.9,30,Standard,3650
+Dog,Gastroenteritis,Severe,8.4,4,Premium,4850
+Dog,Dental Disease,Mild,14.0,21,Economy,2050
+Dog,Flea Allergy Dermatitis,Moderate,10.8,27,Standard,2800
+Cat,Ringworm,Moderate,2.7,33,Standard,3800
+Cat,Flea Allergy Dermatitis,Mild,4.3,23,Standard,1700
+Cat,Mange,Moderate,5.2,19,Standard,2800
+Dog,Mange,Mild,14.6,17,Standard,2100
+Dog,Wound Infection,Severe,16.8,14,Standard,5050
+Cat,Mange,Mild,5.8,39,Standard,2950
+Dog,Urinary Tract Infection,Severe,12.2,14,Standard,5000
+Cat,Dental Disease,Severe,3.6,19,Standard,6200
+Cat,Dental Disease,Mild,4.5,9,Standard,1850
+Cat,Mange,Moderate,3.3,18,Standard,2350
+Cat,Dental Disease,Moderate,5.5,11,Premium,4800
+Dog,Flea Allergy Dermatitis,Mild,8.3,20,Standard,1750
+Cat,Gastroenteritis,Moderate,4.1,9,Economy,1750
+Dog,Ringworm,Severe,5.5,41,Economy,5000
+Dog,Mange,Mild,25.2,21,Standard,2500
+Dog,Ringworm,Moderate,9.4,21,Premium,4600
+Dog,Dental Disease,Mild,11.6,9,Premium,3000
+Cat,Gastroenteritis,Severe,3.5,6,Standard,3150
+Cat,Urinary Tract Infection,Mild,2.9,9,Economy,1000
+Cat,Ringworm,Mild,4.7,29,Premium,3400
+Dog,Otitis Externa,Mild,11.2,21,Standard,2250
+Dog,Wound Infection,Mild,15.0,9,Economy,1250
+Cat,Urinary Tract Infection,Moderate,2.3,13,Premium,3850
+Cat,Dermatitis,Mild,2.9,10,Economy,700
+Cat,Dermatitis,Severe,3.9,11,Economy,2150
+Dog,Otitis Externa,Moderate,26.3,10,Premium,3750
+Cat,Wound Infection,Mild,5.3,13,Standard,1900
+Dog,Dermatitis,Moderate,19.1,19,Standard,3000
+Cat,Conjunctivitis,Moderate,3.2,13,Standard,1650
+Dog,Conjunctivitis,Mild,17.8,10,Economy,750
+Dog,Dental Disease,Mild,9.4,25,Premium,4250
+Dog,Flea Allergy Dermatitis,Mild,13.0,25,Standard,2100
+Dog,Flea Allergy Dermatitis,Mild,7.6,10,Standard,1300
+Dog,Mange,Mild,12.2,30,Premium,3550
+Cat,Ringworm,Mild,2.9,41,Economy,2100
+Dog,Urinary Tract Infection,Severe,24.4,7,Standard,4850
+Cat,Dermatitis,Mild,4.3,13,Standard,1450
+Dog,Flea Allergy Dermatitis,Mild,15.4,18,Premium,2800
+Dog,Mange,Mild,16.5,22,Premium,3350
+Dog,Urinary Tract Infection,Moderate,11.7,8,Economy,2000
+Cat,Conjunctivitis,Moderate,5.2,14,Economy,1500
+Dog,Wound Infection,Mild,14.3,7,Premium,2350
+Cat,Otitis Externa,Mild,5.6,20,Economy,1000
+Cat,Ringworm,Mild,3.6,36,Standard,2900
+Dog,Ringworm,Mild,12.5,42,Economy,2700
+Cat,Gastroenteritis,Mild,3.5,7,Standard,1250
+Dog,Otitis Externa,Moderate,14.6,18,Premium,4250
+Dog,Flea Allergy Dermatitis,Mild,11.0,24,Standard,2050
+Cat,Ringworm,Severe,3.3,14,Premium,5500
+Cat,Dental Disease,Moderate,5.9,25,Economy,3200
+Dog,Mange,Moderate,14.6,36,Standard,4550
+Dog,Conjunctivitis,Mild,10.4,14,Economy,1200
+Dog,Dental Disease,Mild,10.3,20,Standard,3200
+Cat,Wound Infection,Moderate,3.8,18,Standard,2850
+Dog,Dermatitis,Moderate,22.4,21,Premium,4450
+Dog,Flea Allergy Dermatitis,Mild,18.8,7,Premium,2000
+Cat,Otitis Externa,Mild,4.9,10,Standard,1300
+Dog,Mange,Severe,11.6,34,Standard,6400
+Cat,Gastroenteritis,Moderate,5.2,8,Standard,2250
+Cat,Flea Allergy Dermatitis,Mild,4.5,27,Standard,1750
+Dog,Conjunctivitis,Mild,6.9,5,Standard,1150
+Dog,Dermatitis,Mild,17.0,16,Premium,2600
+Cat,Ringworm,Moderate,2.8,41,Economy,3450
+Cat,Flea Allergy Dermatitis,Severe,4.1,28,Economy,2750
+Dog,Conjunctivitis,Moderate,18.4,5,Standard,2150
+Dog,Dermatitis,Moderate,9.2,19,Economy,2050
+Cat,Ringworm,Moderate,3.2,19,Premium,3850
+Dog,Ringworm,Moderate,11.8,42,Standard,5450
+Dog,Dental Disease,Severe,9.9,29,Premium,11300
+Dog,Conjunctivitis,Moderate,8.4,13,Standard,2050
+Dog,Dental Disease,Mild,15.8,18,Economy,2550
+Dog,Otitis Externa,Mild,6.6,14,Standard,1500
+Cat,Dermatitis,Moderate,3.9,21,Standard,2750
+Dog,Conjunctivitis,Mild,13.4,10,Standard,1350
+Dog,Mange,Moderate,11.1,23,Economy,2050
+Dog,Flea Allergy Dermatitis,Mild,14.0,20,Economy,1250
+Dog,Dental Disease,Mild,11.1,7,Premium,2700
+Cat,Otitis Externa,Mild,6.1,17,Standard,1450
+Dog,Urinary Tract Infection,Severe,13.8,7,Standard,4350
+Dog,Mange,Moderate,14.5,28,Standard,3800
+Cat,Mange,Mild,2.6,18,Economy,1250
+Dog,Wound Infection,Moderate,18.2,15,Standard,3150
+Dog,Urinary Tract Infection,Mild,12.2,11,Economy,1250
+Cat,Dental Disease,Mild,3.5,22,Standard,2700
+Cat,Gastroenteritis,Mild,4.3,8,Premium,2100
+Dog,Urinary Tract Infection,Mild,11.3,11,Premium,2900
+Dog,Flea Allergy Dermatitis,Mild,10.5,11,Standard,1400
+Dog,Wound Infection,Mild,25.9,14,Standard,2100
+Dog,Ringworm,Moderate,12.8,40,Standard,4700
+Dog,Wound Infection,Moderate,13.0,21,Standard,3850
+Cat,Dermatitis,Moderate,4.6,11,Standard,1900
+Cat,Urinary Tract Infection,Mild,4.3,7,Standard,1400
+Cat,Mange,Moderate,3.4,32,Economy,2450
+Dog,Dental Disease,Moderate,24.4,24,Premium,8250
+Dog,Mange,Mild,21.4,35,Standard,3450
+Cat,Ringworm,Moderate,4.3,35,Standard,3750
+Dog,Wound Infection,Mild,8.3,9,Standard,1200
+Cat,Dental Disease,Moderate,2.6,7,Standard,2650
+Cat,Ringworm,Mild,6.0,19,Standard,2000
+Dog,Wound Infection,Mild,9.9,17,Premium,2950
+Cat,Wound Infection,Moderate,4.1,9,Standard,2400
+Cat,Urinary Tract Infection,Moderate,5.4,10,Premium,3600
+Cat,Urinary Tract Infection,Mild,2.8,9,Premium,2100
+Cat,Mange,Severe,2.8,24,Economy,3700
+Dog,Urinary Tract Infection,Moderate,16.2,11,Standard,2900
+Cat,Ringworm,Moderate,5.7,21,Premium,4200
+Cat,Mange,Severe,4.1,28,Standard,4850
+Cat,Conjunctivitis,Moderate,4.1,9,Economy,1100
+Dog,Flea Allergy Dermatitis,Moderate,7.0,9,Premium,2500
+Dog,Ringworm,Severe,9.3,42,Standard,6950
+Cat,Dental Disease,Moderate,4.0,15,Standard,3350
+Dog,Flea Allergy Dermatitis,Moderate,13.4,16,Standard,2500
+Cat,Otitis Externa,Mild,4.5,14,Premium,2000
+Cat,Gastroenteritis,Mild,4.6,5,Standard,1700
+Dog,Wound Infection,Moderate,19.2,11,Premium,4300
+Dog,Mange,Moderate,11.8,39,Standard,4600
+Cat,Wound Infection,Mild,6.1,16,Standard,1950
+Cat,Gastroenteritis,Mild,4.1,4,Standard,1100
+Dog,Mange,Mild,9.5,40,Premium,4450
+Dog,Dermatitis,Moderate,20.1,15,Economy,2250
+Cat,Wound Infection,Severe,3.8,8,Economy,2450
+Cat,Urinary Tract Infection,Moderate,4.8,12,Economy,2000
+Cat,Flea Allergy Dermatitis,Mild,3.6,27,Premium,2500
+Dog,Dental Disease,Mild,9.0,12,Premium,3150
+Dog,Ringworm,Mild,5.9,41,Standard,3000
+Cat,Dermatitis,Moderate,3.9,11,Economy,1350
+Cat,Dermatitis,Severe,4.3,12,Standard,3000
+Cat,Dental Disease,Severe,3.7,7,Economy,3500
+Dog,Otitis Externa,Moderate,16.3,9,Premium,3650
+Cat,Otitis Externa,Moderate,4.8,15,Standard,2550
+Cat,Gastroenteritis,Moderate,3.6,4,Standard,1850
+Dog,Flea Allergy Dermatitis,Moderate,19.4,15,Economy,1800
+Cat,Wound Infection,Severe,4.1,8,Premium,4900
+Cat,Mange,Moderate,3.4,32,Standard,3350
+Dog,Conjunctivitis,Moderate,14.8,8,Standard,1750
+Cat,Conjunctivitis,Moderate,4.7,9,Economy,1300
+Dog,Otitis Externa,Severe,11.8,13,Premium,5350
+Cat,Gastroenteritis,Moderate,4.4,4,Standard,2100
+Cat,Gastroenteritis,Mild,4.6,8,Economy,1050
+Cat,Ringworm,Moderate,2.5,20,Standard,2700
+Dog,Flea Allergy Dermatitis,Moderate,12.3,24,Standard,3050
+Cat,Dental Disease,Moderate,4.8,21,Economy,2900
+Dog,Ringworm,Mild,12.0,26,Standard,2600
+Dog,Mange,Moderate,22.8,36,Economy,4050
+Cat,Conjunctivitis,Moderate,3.1,10,Standard,1900
+Dog,Gastroenteritis,Moderate,9.8,6,Premium,3700
+Dog,Dental Disease,Severe,11.0,18,Premium,9300
+Cat,Ringworm,Mild,4.0,37,Economy,1800
+Cat,Dental Disease,Moderate,4.3,30,Standard,4550
+Cat,Urinary Tract Infection,Moderate,2.7,10,Standard,2550
+Cat,Dental Disease,Mild,3.8,21,Economy,2100
+Dog,Gastroenteritis,Moderate,14.2,8,Standard,2850
+Cat,Flea Allergy Dermatitis,Severe,2.8,24,Standard,4000
+Dog,Wound Infection,Moderate,16.7,7,Standard,2800
+Cat,Dermatitis,Moderate,4.9,10,Standard,1900
+Dog,Mange,Moderate,12.3,38,Standard,4600
+Cat,Urinary Tract Infection,Mild,3.8,8,Economy,1150
+Cat,Mange,Severe,4.2,14,Standard,3750
+Dog,Dermatitis,Severe,9.8,15,Economy,2800
+Dog,Dermatitis,Moderate,10.2,16,Premium,3650
+Cat,Gastroenteritis,Moderate,4.5,8,Standard,1800
+Cat,Gastroenteritis,Moderate,4.5,5,Standard,1800
+Dog,Conjunctivitis,Mild,10.0,13,Standard,1100
+Cat,Wound Infection,Mild,5.1,11,Economy,1350
+Cat,Dental Disease,Moderate,3.6,15,Premium,5050
+Dog,Urinary Tract Infection,Moderate,7.1,11,Economy,1850
+Dog,Dermatitis,Moderate,12.6,13,Standard,2350
+Dog,Flea Allergy Dermatitis,Moderate,11.3,16,Economy,1800
+Cat,Mange,Mild,2.3,15,Premium,2250
+Cat,Gastroenteritis,Moderate,4.0,5,Premium,3200
+Dog,Ringworm,Moderate,16.2,37,Premium,7150
+Dog,Otitis Externa,Mild,17.1,8,Economy,1050
+Dog,Gastroenteritis,Mild,7.4,8,Standard,1350
+Dog,Flea Allergy Dermatitis,Mild,8.3,17,Standard,1600
+Dog,Otitis Externa,Mild,14.9,11,Standard,1500
+Dog,Dental Disease,Severe,12.6,30,Economy,6650
+Dog,Conjunctivitis,Severe,9.4,7,Standard,2600
+Dog,Conjunctivitis,Mild,3.8,13,Economy,1000
+Cat,Mange,Moderate,4.4,23,Standard,2800
+Dog,Gastroenteritis,Moderate,14.8,8,Standard,2650
+Cat,Dental Disease,Mild,3.4,24,Premium,3750
+Dog,Wound Infection,Severe,10.6,9,Standard,3850
+Cat,Dermatitis,Moderate,4.4,13,Standard,2000
+Cat,Flea Allergy Dermatitis,Moderate,2.8,15,Premium,3400
+Cat,Ringworm,Moderate,4.7,41,Premium,6250
+Cat,Wound Infection,Moderate,3.2,20,Standard,3100
+Cat,Dental Disease,Mild,4.3,7,Premium,2500
+Dog,Dermatitis,Moderate,18.8,21,Standard,2850
+Dog,Ringworm,Moderate,5.8,29,Premium,5000
+Dog,Gastroenteritis,Mild,24.8,3,Standard,2250
+Dog,Flea Allergy Dermatitis,Moderate,19.1,27,Premium,5250
+Dog,Flea Allergy Dermatitis,Mild,10.3,24,Economy,1300
+Dog,Gastroenteritis,Mild,11.5,3,Standard,1500
+Cat,Wound Infection,Mild,5.0,11,Standard,1400
+Cat,Conjunctivitis,Mild,3.8,11,Premium,1950
+Cat,Flea Allergy Dermatitis,Mild,3.1,28,Standard,2550
+Cat,Conjunctivitis,Severe,3.4,10,Standard,2400
+Dog,Mange,Moderate,10.0,14,Economy,2100
+Dog,Dermatitis,Mild,26.6,11,Standard,1800
+Cat,Gastroenteritis,Mild,5.0,9,Premium,2300
+Cat,Conjunctivitis,Moderate,5.1,12,Premium,2800
+Cat,Dermatitis,Moderate,3.1,15,Premium,2850
+Dog,Gastroenteritis,Moderate,18.0,6,Standard,2850
+Cat,Wound Infection,Moderate,4.2,18,Standard,3150
+Cat,Gastroenteritis,Mild,3.9,8,Standard,1500
+Cat,Ringworm,Moderate,4.7,33,Standard,3750
+Cat,Dental Disease,Moderate,4.7,9,Standard,2800
+Dog,Ringworm,Mild,10.0,31,Standard,2700
+Cat,Ringworm,Moderate,5.5,18,Premium,3550
+Dog,Dental Disease,Mild,23.8,17,Standard,3350
+Cat,Urinary Tract Infection,Mild,4.5,8,Standard,1500
+Cat,Gastroenteritis,Moderate,2.4,10,Premium,3700
+Cat,Urinary Tract Infection,Moderate,3.7,14,Premium,4300
+Cat,Gastroenteritis,Mild,3.0,10,Premium,2100
+Dog,Gastroenteritis,Moderate,23.0,10,Standard,3200
+Cat,Ringworm,Mild,2.6,37,Standard,2700
+Dog,Flea Allergy Dermatitis,Moderate,7.1,13,Standard,2050
+Dog,Gastroenteritis,Moderate,17.6,5,Economy,1900
+Cat,Mange,Moderate,5.7,19,Standard,2700
+Cat,Dermatitis,Mild,3.2,18,Economy,1250

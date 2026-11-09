@@ -1,0 +1,98 @@
+Starting AI Retraining Process...
+
+--- Step 1: Rebuilding Dataset CSV ---
+ -> Found 937 images for: Healthy (Cats & Dogs)
+Detected cat disease classes: ['FLEA ALLERGY', 'RINGWORM', 'SCABIES']
+ -> Found 493 images for: cat/FLEA ALLERGY
+ -> Found 444 images for: cat/RINGWORM
+ -> Found 361 images for: cat/SCABIES
+Detected dog disease classes: ['DEMODICOSIS', 'DERMATITIS', 'FUNGAL INFECTIONS', 'HYPERSENSITIVITY', 'RINGWORM', 'SCABIES']
+ -> Found 623 images for: dog/DEMODICOSIS
+ -> Found 612 images for: dog/DERMATITIS
+ -> Found 429 images for: dog/FUNGAL INFECTIONS
+ -> Found 259 images for: dog/HYPERSENSITIVITY
+ -> Found 906 images for: dog/RINGWORM
+ -> Found 65 images for: dog/SCABIES
+
+Successfully created multiclass_annotations.csv with 5129 total images.
+
+--- Step 2: Training Model (This may take a few minutes) ---
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1789663511.867304    9040 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1789663521.519954    9040 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Training on 8 classes...
+Found 4103 validated image filenames belonging to 8 classes.
+Found 1026 validated image filenames belonging to 8 classes.
+I0000 00:00:1789663532.951493    9040 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+
+--- Phase 1: Training Top Layers (20 Epochs) ---
+Epoch 1/20
+C:\xampp\htdocs\pet_system_real\pet_env\Lib\site-packages\PIL\Image.py:1136: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+  warnings.warn(
+129/129 - 328s - 3s/step - accuracy: 0.6320 - loss: 1.1021 - val_accuracy: 0.7456 - val_loss: 0.7767
+Epoch 2/20
+129/129 - 245s - 2s/step - accuracy: 0.7399 - loss: 0.7596 - val_accuracy: 0.7573 - val_loss: 0.7282
+Epoch 3/20
+129/129 - 236s - 2s/step - accuracy: 0.7728 - loss: 0.6545 - val_accuracy: 0.7700 - val_loss: 0.6297
+Epoch 4/20
+129/129 - 230s - 2s/step - accuracy: 0.7943 - loss: 0.5791 - val_accuracy: 0.7895 - val_loss: 0.6669
+Epoch 5/20
+129/129 - 261s - 2s/step - accuracy: 0.8140 - loss: 0.5284 - val_accuracy: 0.8138 - val_loss: 0.5775
+Epoch 6/20
+129/129 - 263s - 2s/step - accuracy: 0.8330 - loss: 0.4903 - val_accuracy: 0.8002 - val_loss: 0.5697
+Epoch 7/20
+129/129 - 311s - 2s/step - accuracy: 0.8452 - loss: 0.4369 - val_accuracy: 0.8246 - val_loss: 0.5143
+Epoch 8/20
+129/129 - 238s - 2s/step - accuracy: 0.8674 - loss: 0.3887 - val_accuracy: 0.8138 - val_loss: 0.5373
+Epoch 9/20
+129/129 - 288s - 2s/step - accuracy: 0.8596 - loss: 0.4091 - val_accuracy: 0.8470 - val_loss: 0.5096
+Epoch 10/20
+129/129 - 294s - 2s/step - accuracy: 0.8752 - loss: 0.3633 - val_accuracy: 0.8314 - val_loss: 0.5081
+Epoch 11/20
+129/129 - 251s - 2s/step - accuracy: 0.8767 - loss: 0.3445 - val_accuracy: 0.8431 - val_loss: 0.5059
+Epoch 12/20
+129/129 - 263s - 2s/step - accuracy: 0.8911 - loss: 0.3091 - val_accuracy: 0.8353 - val_loss: 0.5499
+Epoch 13/20
+129/129 - 228s - 2s/step - accuracy: 0.8959 - loss: 0.3046 - val_accuracy: 0.8489 - val_loss: 0.4870
+Epoch 14/20
+129/129 - 159s - 1s/step - accuracy: 0.8935 - loss: 0.2978 - val_accuracy: 0.8255 - val_loss: 0.5555
+Epoch 15/20
+129/129 - 158s - 1s/step - accuracy: 0.8896 - loss: 0.3079 - val_accuracy: 0.8538 - val_loss: 0.4747
+Epoch 16/20
+129/129 - 156s - 1s/step - accuracy: 0.8976 - loss: 0.2853 - val_accuracy: 0.8421 - val_loss: 0.4618
+Epoch 17/20
+129/129 - 156s - 1s/step - accuracy: 0.9127 - loss: 0.2585 - val_accuracy: 0.8606 - val_loss: 0.4737
+Epoch 18/20
+129/129 - 162s - 1s/step - accuracy: 0.9040 - loss: 0.2586 - val_accuracy: 0.8480 - val_loss: 0.5454
+Epoch 19/20
+129/129 - 152s - 1s/step - accuracy: 0.9110 - loss: 0.2491 - val_accuracy: 0.8411 - val_loss: 0.5259
+Epoch 20/20
+129/129 - 137s - 1s/step - accuracy: 0.9149 - loss: 0.2445 - val_accuracy: 0.8655 - val_loss: 0.4407
+
+--- Phase 2: Fine-Tuning Deep Layers (10 Epochs) ---
+Epoch 1/10
+129/129 - 167s - 1s/step - accuracy: 0.6076 - loss: 1.4378 - val_accuracy: 0.8752 - val_loss: 0.4417
+Epoch 2/10
+129/129 - 158s - 1s/step - accuracy: 0.7716 - loss: 0.6779 - val_accuracy: 0.8674 - val_loss: 0.4545
+Epoch 3/10
+129/129 - 160s - 1s/step - accuracy: 0.8023 - loss: 0.5627 - val_accuracy: 0.8674 - val_loss: 0.4527
+Epoch 4/10
+129/129 - 158s - 1s/step - accuracy: 0.8272 - loss: 0.4778 - val_accuracy: 0.8606 - val_loss: 0.4712
+Epoch 5/10
+129/129 - 164s - 1s/step - accuracy: 0.8396 - loss: 0.4409 - val_accuracy: 0.8635 - val_loss: 0.4724
+Epoch 6/10
+129/129 - 165s - 1s/step - accuracy: 0.8567 - loss: 0.4173 - val_accuracy: 0.8635 - val_loss: 0.4617
+Epoch 7/10
+129/129 - 178s - 1s/step - accuracy: 0.8633 - loss: 0.3904 - val_accuracy: 0.8674 - val_loss: 0.4530
+Epoch 8/10
+129/129 - 198s - 2s/step - accuracy: 0.8633 - loss: 0.3719 - val_accuracy: 0.8665 - val_loss: 0.4461
+Epoch 9/10
+129/129 - 165s - 1s/step - accuracy: 0.8845 - loss: 0.3342 - val_accuracy: 0.8655 - val_loss: 0.4422
+Epoch 10/10
+129/129 - 265s - 2s/step - accuracy: 0.8840 - loss: 0.3201 - val_accuracy: 0.8801 - val_loss: 0.4013
+WARNING:absl:You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+
+SUCCESS: Multi-class Image model and indices saved to 'C:\xampp\htdocs\pet_system_real\models'.
